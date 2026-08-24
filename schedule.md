@@ -17,127 +17,111 @@ AFIST = [_A Friendly Introduction to Software Testing_](software-quality-assuran
 ## WEEK 2 (Week of 31 AUG)
 
 * Class 1
+  * Assignment due before class: [Java Assessment Exercise](exercises/0)
   * Lecture: Test Plans Lecture (READING: AFIST, Chapters 6, 8)
-  * In-class exercise: [Exercise 1: Test Plans](exercises/1)
-  * Assignments due before class
-    * Java Assessment Exercise
-    * Partnership Contract on GradeScope
-  * Assignment releases
-    * [Deliverable 1](deliverables/1)
+  * Assignment release: [Exercise 1: Test Plans](exercises/1)
 
 * Class 2
   * Lecture: Defects Lecture (READING: AFIST, Chapters 9)
-  * In-class exercise: [Exercise 1: Test Plans](exercises/1) cont'd
 
 ## WEEK 3 (Week of 7 SEP)
 
 * Class 1: NO CLASS (Labor Day)
 
 * Class 2
+  * Assignment due before class: [Exercise 1: Test Plans](exercises/1)
+  * Quiz: Test Plans and Defect Reporting
   * Lecture: Test-driven Development (READING: AFIST, Chapter 15)
-  * In-class exercise: [Exercise 2: Unit Testing](exercises/2)
 
 ## WEEK 4 (Week of 14 SEP)
 
 * Class 1 
   * Lecture: Unit Testing Part 1 (READING: AFIST, Chapter 13)
-  * In-class exercise: [Exercise 2: Unit Testing](exercises/2) cont'd
+  * Assignment release: [Exercise 2: Unit Testing](exercises/2)
 
 * Class 2: 
   * Lecture: Unit Testing Part 2 (READING: AFIST, Chapter 14)
-  * In-class exercise: [Exercise 2: Unit Testing](exercises/2) cont'd
-  * Assignment releases
-    * [Deliverable 2](deliverables/2)
 
 ## WEEK 5 (Week of 21 SEP)
 
 * Class 1
-  * Lecture: Behavior Driven Development
-  * In-class exercise: [Supplementary Exercise 1: Behavior Driven Development](exercises/Supplement1)
-
-* Class 2
+  * Assignment due before class: [Exercise 2: Unit Testing](exercises/2)
+  * Quiz: Unit Testing
   * Lecture: Automated System Testing
-  * In-class exercise: [Exercise 3: Automated System Testing](exercises/3)
-  * Assignments due before class
-    * Deliverable 1
-  * Assignment releases
-    * [Deliverable 3](deliverables/3)
+  * Assignment release: [Exercise 3: Automated System Testing](exercises/3)
+  
+* Class 2
+  * cont'd
 
 ## WEEK 6 (Week of 28 SEP)
 
 * Class 1
-  * Lecture: Writing Testable Code Lecture (READING: AFIST, Chapter 16)
-  * In-class exercise: [Exercise 3: Automated System Testing](exercises/3) cont'd
-  
+  * Assignment due before class: [Exercise 3: Automated System Testing](exercises/3)
+  * Quiz: Automated System Testing
+  * Lecture: Behavior Driven Development
+  * Assignment release: [Supplementary Exercise 1: Behavior Driven Development](exercises/Supplement1)
+
 * Class 2
-  * Lecture: Midterm 1 Q&A based on the [study guide](study_guides/midterm_1_study_guide.md)
-  * Assignments due before class
-    * Deliverable 2
+  * Lecture: Writing Testable Code Lecture (READING: AFIST, Chapter 16)
 
 ## WEEK 7 (Week of 5 OCT)
 
-* Class 1: Midterm 1 on GradeScope
-  * Steps:
-    1. Do TopHat attendance at start of class.  If no attendance, grade will not be counted.
-    2. Click on assignment "Midterm 1" on GradeScope (will appear at start of class).
-    3. Click on the "Start Assignment" button.  There will be a count down timer on the top right once you start.
-    4. Finish and submit the exam within 75 minutes.  You can submit multiple times.
-  * Optionally, you can try the "Sample GradeScope Exam (For Practice)" to get used to the mechanics.
-  * Exam is open book (Lecture slides, notes, textbook, exercises and deliverables).  All materials have to be on paper.
-  * No internet access.  No generative AI.
-  * You should have only the GradeScope on the screen at all times.
+* Class 1
+  * Assignment due before class: [Supplementary Exercise 1: Behavior Driven Development](exercises/Supplement1)
+  * Quiz: Behavior Driven Development
+  * Lecture: Performance Testing (READING: AFIST, Chapter 19)
+  * Assignment release: [Exercise 4: Performance Testing](exercises/4)
 
 * Class 2
-  * Lecture: Performance Testing (READING: AFIST, Chapter 19)
-  * In-class exercise: [Exercise 4: Performance Testing](exercises/4)
-  * Assignment releases
-    * [Deliverable 4](deliverables/4)
+  * cont'd
 
 ## WEEK 8 (Week of 12 OCT)
 
 * Class 1
-  * In-class exercise: [Exercise 4: Performance Testing](exercises/4) cont'd
-  * Assignment releases
-    * [Deliverable 4](deliverables/4)
+  * Assignment due before class: [Exercise 4: Performance Testing](exercises/4)
+  * Quiz: Performance Testing
+  * Lecture: Stochastic and Property-Based Testing Lecture (READING: AFIST, Chapter 18)
+  * Assignment release: [Supplementary Exercise 2: Property-based Testing](exercises/Supplement2)
 
 * Class 2
-  * Lecture: Stochastic and Property-Based Testing Lecture (READING: AFIST, Chapter 18)
-  * In-class exercise: [Supplementary Exercise 2: Property-based Testing](exercises/Supplement2)
+  * cont'd
 
 ## WEEK 9 (Week of 19 OCT)
 
 * Class 1
+  * Assignment due before class: [Supplementary Exercise 2: Property-based Testing](exercises/Supplement2)
+  * Quiz: Property-based Testing
   * Lecture: Software QA and Nondeterminism
-  * Assignments due before class
-    * Deliverable 3
+  * Assignment release: [Supplementary Exercise 3: Testing Nondeterministic Software](exercises/Supplement3)
 
 * Class 2
-  * In-class exercise: [Supplementary Exercise 3: Testing Nondeterministic Software](exercises/Supplement3)
+  * cont'd
 
 ## WEEK 10 (Week of 26 OCT)
 
 * Class 1
-  * Lecture: Static Analysis Part 1 Lecture
+  * Assignment due before class: [Supplementary Exercise 3: Testing Nondeterministic Software](exercises/Supplement3)
+  * Quiz: Testing Nondeterministic Software - Memory Errors and Race Conditions
+  * Lecture: Static Analysis Part 1
   * In-class exercise: [Exercise 5 Part 1: Linters and Bug Finders](exercises/5)
 
 * Class 2
-  * Lecture: Software QA and Nondeterminism (cont'd), Static Analysis Part 2
+  * Lecture: Software QA and Nondeterminism (cont'd)
 
 ## WEEK 11 (Week of 2 NOV)
 
 * Class 1
-  * In-class exercise: [Exercise 5 Part 2: Model Checking](exercises/5)
-  * Assignments due before class
-    * Deliverable 4
-  * Assignment releases
-    * [Deliverable 5](deliverables/5)
+  * Assignment due before class: [Exercise 5 Part 1: Linters and Bug Finders](exercises/5)
+  * Lecture: Static Analysis Part 2
+  * Assignment release: [Exercise 5 Part 2: Model Checking](exercises/5)
 
 * Class 2
-  * Lecture: Static Analysis Part 3, Smoke and Exploratory Testing (READING: AFIST, Chapters 10-11)
+  * cont'd
 
 ## WEEK 12 (Week of 9 NOV)
 
 * Class 1
+  * Lecture: Smoke and Exploratory Testing (READING: AFIST, Chapters 10-11)
   * In-class exercise: [Supplementary Exercise 4 Part 1: CI Pipelines](exercises/Supplement4)
 
 * Class 2
@@ -149,8 +133,8 @@ AFIST = [_A Friendly Introduction to Software Testing_](software-quality-assuran
   * Lecture: Pairwise and Combinatorial Testing (READING: AFIST, Chapter 17)
 
 * Class 2
+  * Assignments due before class: [Supplementary Exercise 4 Part 1: CI Pipelines](exercises/Supplement4), [Supplementary Exercise 4 Part 2: Dockers](exercises/Supplement4)
   * Lecture: Security Testing (READING: AFIST, Chapter 20)
-  * Lecture: Midterm 2 Q&A based on the [study guide](study_guides/midterm_2_study_guide.md)
 
 ## WEEK 14 (Week of 23 NOV)
 
@@ -162,6 +146,8 @@ AFIST = [_A Friendly Introduction to Software Testing_](software-quality-assuran
 
 * TBA
 
+* Final Project due Friday (12/4) 11:59 PM
+
 ## WEEK 16 (Week of 7 DEC)
 
 * Final Exam on GradeScope
@@ -169,11 +155,9 @@ AFIST = [_A Friendly Introduction to Software Testing_](software-quality-assuran
     * TBA
   * Steps:
     1. Do TopHat attendance at start of class.  If no attendance, grade will not be counted.
-    2. Click on assignment "Midterm 2" on GradeScope (will appear at start of class).
+    2. Click on assignment "Final Exam" on GradeScope (will appear at start of class).
     3. Click on the "Start Assignment" button.  There will be a count down timer on the top right once you start.
     4. Finish and submit the exam within 75 minutes.  You can submit multiple times.
   * Exam is open book (Lecture slides, notes, textbook, exercises and deliverables).  All materials have to be on paper.
   * No internet access.  No generative AI.
   * You should have only the GradeScope on the screen at all times.
-
-* Deliverable 5 due Friday (12/11) 11:59 PM
