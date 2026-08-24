@@ -47,16 +47,16 @@ you are new to GitHub, there is a short git tutorial under the lectures folder:
 [Using_Git.pdf](/lectures/Using_Git.pdf).  Please refer to it as you follow the
 below instructions.
 
-1. If you are new to git source versioning or GitHub, I recommend that you
+1. TBA: Instructions on how to fork your own repository using Classroom50.
+
+   For now, you can start working on the exercise by cloning the course
+repository.  Later when you are able to fork your own repository, you can copy
+over your modified .java file to that repository and commit.
+
+2. If you are new to git source versioning or GitHub, I recommend that you
 start by using the Desktop GUI version.  You can download it from:
 
    https://desktop.github.com/download/
-
-2. Once you've installed GitHub Desktop, let's first clone the Exercise 0 GitHub repository to your computer:
-
-   https://help.github.com/en/desktop/contributing-to-projects/cloning-a-repository-from-github-to-github-desktop
-
-   Please clone the GitHub Classroom repository that was created for you when you accept the assignment to your desktop.
 
 3. Whenever you make improvements to your source code, frequently "Commit" and
    "Push" those changes to GitHub so that your new changes are versioned.
@@ -69,22 +69,13 @@ Committing and Pushing frequently ensures that your changes are versioned and
 backed up, as well as allowing your collaborators to access your changes and
 keep up-to-date.
 
-4. Whenever there are updates to the GitHub Classroom repository (for example,
-   somebody did a "Push" to the repository), the "Pull" request button will be
-activated for the repository on GitHub Desktop.  Clicking that button will
-bring your Local Repository in sync with the Remote Repository at GitHub.com.
-
-For more details about using Git and GitHub, please refer to the following tutorial:
-https://classroom.github.com/a/DWR7V_Np
-
-Clicking on the above link and accepting the assignment will create a new
-GitHub repository for you with the tutorial.  Completing the tutorial is
-optional but is recommended for first time Git users.  You can play around with
-this new repository until you get used to Git operations, without having to
-worry about deleting or overwriting important source code.
+4. Whenever there are updates to the GitHub repository (for example, somebody
+did a "Push" to the repository), the "Pull" request button will be activated
+for the repository on GitHub Desktop.  Clicking that button will bring your
+Local Repository in sync with the Remote Repository at GitHub.com.
 
 Also optionally, you may decide to clone the course repository at
-https://github.com/wonsunahn/CS1632_Spring2026 to your desktop as well.  Since
+https://github.com/wonsunahn/CS1632_Fall2026 to your desktop as well.  Since
 you don't own this repository, you will have to choose the "URL" tab when
 cloning and input that URL.  Also, you will only be able to Pull from the
 repository and not Push.  But if you want to have access to course materials
